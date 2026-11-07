@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AGENT PX</string>
+    <string name="tagline">YOUR PERSONAL AI. YOUR COMMAND.</string>
+    <string name="listening_prompt">Listening for your command...</string>
+    <string name="thinking_prompt">Analyzing command parameters...</string>
+    <string name="speaking_prompt">Agent PX responding...</string>
+    <string name="idle_prompt">Tap microphone or say "Hey Agent PX"</string>
+    <string name="accessibility_service_description">Agent PX Accessibility Service enables assistive automation, UI interactions, and authorized hands-free actions as requested by the user.</string>
+    <string name="notification_service_description">Agent PX Notification Listener reads incoming message alerts upon explicit voice command.</string>
+    <string name="flashlight_on">Flashlight activated.</string>
+    <string name="flashlight_off">Flashlight turned off.</string>
+    <string name="battery_status_format">Battery is at %1$d%% and %2$s.</string>
+    <string name="permission_required_format">Permission %1$s is required for this action.</string>
+</resources>

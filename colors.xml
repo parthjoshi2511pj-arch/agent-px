@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#030712</color>
+    <color name="electric_blue">#00F0FF</color>
+    <color name="neon_cyan">#38BDF8</color>
+    <color name="hologram_dark">#0B132B</color>
+    <color name="hologram_surface">#1C2541</color>
+    <color name="hologram_glow">#00F0FF33</color>
+    <color name="white">#FFFFFF</color>
+    <color name="alert_amber">#F59E0B</color>
+    <color name="alert_red">#EF4444</color>
+</resources>
